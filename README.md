@@ -1,10 +1,10 @@
-# Crypto_Clustering
+# Crypto Clustering App
 
-This app analyzes cryptocurrency market data and performs statistical analysis to . The data is first collected from csv files and prepared. Next, the app normalizes the data for comparison across cryptocurrencies. As part of this analysis, the app creates plots to visualize the data.
+This app analyzes cryptocurrency market data and performs statistical analysis using machine learning. The data is first collected from csv files and prepared. Next, the app normalizes the data for comparison across cryptocurrencies. As part of this analysis, the app creates plots to visualize the data.
 
 The app uses KMeans modeling to create elbow curves, measure intertia, and identify the best value for k. Next, separate elbow curves are created with Primary Component Analysis. The analysis shows that the best value for k is the same in both plots.
 
-The Crypto Clustering app creates value for the user by automating the analysis of how to cluster the market data. The app creates a framework that can be used to analyze any asset class across any time period for which there is data.
+The Crypto Clustering app creates value for the user by automating the analysis of how to cluster market data. The app creates a framework that can be used to analyze any asset class across any time period for which there is data.
 
 ---
 
@@ -32,4 +32,4 @@ The Crypto Clustering app was written by Kyle Huber in March 2022.
 
 ---
 
-# Crypto_Clustering
+# Crypto Clustering
