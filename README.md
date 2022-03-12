@@ -18,6 +18,7 @@ The Crypto Clustering App is written in Python 3.10.1 using Jupyter Lab. It is c
 
 This app can be run in Gitbash or Terminal. The app and supporting files are located in this Github repository:
 https://github.com/kyhuber/Crypto_Clustering
+
 ---
 
 ## Usage
